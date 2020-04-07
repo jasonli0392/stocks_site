@@ -1,4 +1,4 @@
-##stonks
+## stonks
 
 # Technologies Used
 Python3
